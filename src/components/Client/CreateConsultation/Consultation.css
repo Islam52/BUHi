@@ -1,0 +1,113 @@
+.consultation{
+    top: 0;
+    position: absolute;
+}
+
+.consultation-m{
+    max-width: 1440px;
+    min-width: 1440px;
+    max-height: 20000px;
+    background: #7757F9;
+    display: flex;
+    justify-content: center;    
+    /* align-items: center; */
+
+}
+
+.consultation-bar{
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+    padding: 40px 50px 80px 50px;
+
+}
+
+.Us{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+    margin-bottom: 20px;
+}
+
+.Ur{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.consultation-form {
+    max-width: 1080px;
+    min-width: 1080px;
+    max-height: 20000px;
+    background: #fff;
+    margin-top: 140px;
+    margin-bottom: 140px;
+    padding: 40px 50px 80px 50px;
+}
+
+.form-consultation{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 300px;
+}
+
+/* .label{
+    display: flex;
+    flex-direction: row;
+} */
+
+.consultation-input{
+    width: 684px !important;
+    height: 53px !important;
+    margin: 10px;
+    border-bottom: 1px solid #22B7A0;
+    /* display: flex;
+    flex-direction: row; */
+}
+.consultation-input1{
+    width: 200px !important;
+    height: 53px !important;
+    margin: 10px;
+    border-bottom: 1px solid #22B7A0;
+}
+
+/* .input-pay1{
+    width: 250px !important;
+    height: 50px !important;
+    margin: 10px;
+    border: 1px solid #22B7A0;
+    border-radius: 15px;
+    margin-left: 0px;
+} */
+
+.button-req{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+    display: flex;
+    width: 250px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px;
+    gap: 10px;
+    background: linear-gradient(135deg, #99FA04 0%, #22B7A0 100%);
+    border: 1px solid  #99FA04;
+    border-radius: 20px;
+}

@@ -1,0 +1,46 @@
+.DateSelector .css-1s2u09g-control {
+    width: 480px !important;
+    height: 85px;
+    border-radius: 20px !important;
+    box-shadow: 2px 2px 20px 0px #0000001a;
+    border: 1px solid white !important;
+  }
+  .DateSelector .css-1pahdxg-control {
+    border-radius: 20px !important;
+    border-bottom-left-radius: unset !important;
+    border-bottom-right-radius: unset !important;
+    box-shadow: 2px 2px 20px 0px #0000001a !important;
+    border: 1px solid white !important;
+    width: 480px !important;
+    height: 85px;
+  }
+  .DateSelector .css-b62m3t-container {
+    width: 344px;
+  }
+  .DateSelector .css-26l3qy-menu {
+    width: 344px !important;
+  }
+  .DateSelector .css-4ljt47-MenuList {
+    max-height: 160px !important  ;
+  }
+  .DateSelector {
+    width: auto !important;
+  }
+  .DateSelector .css-1n7v3ny-option {
+    height: 65px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+  }
+  .DateSelector .css-yt9ioa-option {
+    height: 65px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+  }
+  .DateSelector .css-9gakcf-option {
+    height: 65px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+  }

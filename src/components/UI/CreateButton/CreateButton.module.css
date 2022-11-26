@@ -1,0 +1,19 @@
+.CreateBtn{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+    display: flex;
+    width: 250px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px;
+    gap: 10px;
+    background: linear-gradient(135deg, #99FA04 0%, #22B7A0 100%);
+    border: 1px solid  #99FA04;
+    border-radius: 20px;
+}
